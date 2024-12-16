@@ -1,4 +1,4 @@
-# midi2audio
+# midi2audio [Play and synthesize MIDI to audio - easy to use Python/CLI API to FluidSynth.]
 
 [![PyPI version](https://img.shields.io/pypi/v/midi2audio.svg)](https://pypi.python.org/pypi/midi2audio)
 ![Supported Python versions](https://img.shields.io/pypi/pyversions/midi2audio.svg)
